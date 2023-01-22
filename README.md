@@ -8,3 +8,4 @@ A place to learn more about stenciljs, and try things.
 
 ## Resources
 
+- [ ] Fireship https://www.youtube.com/watch?v=cuHDQhDhvPE
